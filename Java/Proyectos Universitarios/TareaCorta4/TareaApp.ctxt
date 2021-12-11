@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=TareaApp
-comment0.text=\r\n\ Reune\ todos\ los\ metodos\ y\ clases\ en\ una\ sola\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\ \r\n\ @version\ 20/09/2021\r\n
-comment1.params=
-comment1.target=void\ apalicacion()
-comment1.text=\r\n\ Genera\ un\ menu\ para\ que\ el\ usuario\ pueda\ realizar\ las\ funciones\ del\ numero\ perfecto\ y\ tabulaci\u00F3n\ \r\n\ \r\n
-numComments=2

@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=NumMenor
-comment0.text=\r\n\ Logica\ para\ obtener\ un\ numero\ menor\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @version\ 06/10/2021\r\n
-comment1.params=vectorDeNumeros
-comment1.target=double\ numeroMenor(double[])
-comment1.text=\r\n\ Logica\ para\ calcular\ el\ numero\ menor\ \r\n\ \r\n\ @param\ vectorDeNumeros\ Numeros\ que\ queremos\ utilizar\ \r\n\ @return\ \ \ \ \ numero\ menor\r\n
-numComments=2

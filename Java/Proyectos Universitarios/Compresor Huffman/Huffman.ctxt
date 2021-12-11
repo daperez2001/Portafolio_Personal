@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Huffman
-comment0.text=\r\n\ Esta\ es\ la\ clase\ huffman,\ donde\ se\ inicia\ el\ programa\ y\ se\ decide\ si\ comprimir\ o\ descomprimir\ el\ archivo\ deseado.\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @author\ Randy\ Sancho\r\n\ @author\ Yerlan\ Irola\r\n\ @version\ 3/12/21\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
