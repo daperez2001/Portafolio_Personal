@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ Esta\ clase\ trae\ otros\ metodos\ para\ ejecutar\ todo\ en\ un\ solo\ lugar.\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez.\r\n\ @author\ Randy\ Sancho.\r\n\ @author\ Yerlan\ Irola.\r\n\ @version\ 16/11/2021\r\n
+comment1.params=archivo\ peso
+comment1.target=void\ run(java.lang.String,\ int)
+comment1.text=\r\n\ Este\ metodo\ recibe\ la\ imagen\ y\ el\ peso\ que\ puede\ llevar\ el\ robot.\ Con\ esto\ inicializa\ los\ otros\ metodos\ e\ imprime\ la\ matriz\ final.\r\n\ @param\ archivo\r\n\ este\ parametro\ es\ la\ imagen\ ingresada.\r\n\ @param\ peso\r\n\ este\ parametro\ es\ el\ peso\ que\ puede\ cargar\ el\ robot.\r\n
+numComments=2

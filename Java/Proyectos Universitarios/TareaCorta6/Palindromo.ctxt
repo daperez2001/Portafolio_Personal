@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Palindromo
+comment0.text=\r\n\ Logica\ del\ Palindromo\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @version\ 06/10/2021\r\n
+comment1.params=vector
+comment1.target=boolean\ iterativa(char[])
+comment1.text=\r\n\ Comprueba\ si\ una\ palabra\ es\ Palindromo\ con\ metodo\ iterativo\r\n\ \r\n\ @param\ vector\ Palabra\ almacenada\ letra\ por\ letra\ \r\n\ @return\ \ \ \ \ resultado\ del\ Palindromo\r\n
+comment2.params=vector\ inicio
+comment2.target=boolean\ recursiva(char[],\ int)
+comment2.text=\r\n\ Comprueba\ si\ una\ palabra\ es\ Palindromo\ con\ metodo\ recursivo\r\n\ \r\n\ @param\ vector\ Palabra\ almacenada\ letra\ por\ letra\ \r\n\ @param\ inicio\ indica\ el\ numero\ en\ el\ cual\ inicia\ el\ ciclo\r\n\ @return\ \ \ \ \ resultado\ del\ Palindromo\r\n
+numComments=3

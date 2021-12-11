@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NumMenorApp
+comment0.text=\r\n\ Distribucion\ de\ logica\ y\ datos\ del\ numero\ menor\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @version\ 06/10/2021\r\n
+comment1.params=
+comment1.target=void\ numMenorApp()
+comment1.text=\r\n\ Ejecuta\ y\ almacena\ el\ numero\ menor\r\n\ \r\n
+numComments=2

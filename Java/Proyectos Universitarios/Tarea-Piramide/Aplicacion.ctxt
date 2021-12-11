@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Aplicacion
+comment0.text=\r\n\ Llama\ la\ interfaz\ y\ envia\ esos\ datos\ hacia\ la\ piramide\ \r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @version\ 18/09/2021\r\n
+comment1.params=
+comment1.target=void\ aplicacion()
+comment1.text=\r\n\ Distribuye\ los\ datos\ entre\ clases\ Interfaz\ y\ Piramide\r\n\ \r\n
+numComments=2

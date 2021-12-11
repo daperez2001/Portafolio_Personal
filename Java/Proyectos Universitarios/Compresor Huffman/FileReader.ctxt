@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FileReader
+comment0.text=\r\n\ \r\n
+comment1.params=nombreArchivo
+comment1.target=FileReader(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FileReader\r\n
+comment2.params=matriz
+comment2.target=java.lang.String[][]\ leerArchivo(java.lang.String[][])
+comment2.text=\r\n\ Lee\ todo\ lo\ que\ queda\ del\ archivo\ y\ lo\ devuelve\ en\ un\ string\r\n\ (si\ usan\ binario\ o\ caracteres)\r\n\ \r\n\ @return\ Representacion\ de\ caracteres\ del\ contenido\ del\ archivo\r\n
+comment3.params=matriz\ binario\ contador
+comment3.target=java.lang.String[][]\ comprobar(java.lang.String[][],\ java.lang.String,\ int)
+comment4.params=
+comment4.target=java.lang.String\ leerSiguienteCaracter()
+comment5.params=
+comment5.target=void\ close()
+numComments=6

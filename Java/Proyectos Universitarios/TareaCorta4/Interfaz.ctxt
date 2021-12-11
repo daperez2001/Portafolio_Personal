@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Interfaz
+comment0.text=\r\n\ Realiza\ la\ entrada\ de\ datos\ de\ las\ demas\ clases\ \r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @version\ 20/09/2021\r\n
+comment1.params=
+comment1.target=int\ intEntradaDeDatos()
+comment1.text=\r\n\ Realiza\ la\ entrada\ de\ datos\ "int"\r\n\ \r\n\ @return\ \ Codigo\ de\ entrada\ de\ datos\ \r\n
+comment2.params=
+comment2.target=long\ longEntradaDeDatos()
+comment2.text=\r\n\ Realiza\ la\ entrada\ de\ datos\ "long"\r\n\ \r\n\ @return\ Codigo\ de\ entrada\ de\ datos\r\n
+comment3.params=text
+comment3.target=void\ stringPrint(java.lang.String)
+comment3.text=\r\n\ Realiza\ la\ salida\ de\ datos\ "String"\r\n\ \r\n
+comment4.params=txt
+comment4.target=void\ booleanPrint(boolean)
+comment4.text=\r\n\ Realiza\ la\ salida\ de\ datos\ "boolean"\r\n\ \r\n
+numComments=5

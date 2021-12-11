@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Matriz
+comment0.text=\r\n\ Esta\ clase\ trae\ la\ matriz\ y\ la\ modifica\ para\ dar\ la\ imagen\ resultante.\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez.\r\n\ @author\ Randy\ Sancho.\r\n\ @author\ Yerlan\ Irola.\r\n\ @version\ 16/11/2021\r\n
+comment1.params=matriz
+comment1.target=Matriz(int[][])
+comment1.text=\r\n\ Este\ constructor\ recibe\ una\ matriz\ y\ determina\ la\ cantidad\ de\ piedras\ y\ el\ color\ de\ fondo\ de\ la\ imagen.\ \ \r\n
+comment2.params=matriz
+comment2.target=int[][]\ copiaMatriz(int[][])
+comment2.text=\r\n\ Este\ metodo\ crea\ una\ copia\ de\ la\ matriz\ ingresada.\r\n\ @param\ matriz\r\n\ este\ parametro\ es\ la\ matriz\ ingresada.\r\n\ @return\ nuevaMatriz\r\n\ regresa\ la\ copia\ de\ la\ matriz\ que\ se\ ingres\u00F3.\r\n
+comment3.params=matriz
+comment3.target=int\ contarPiedras(int[][])
+comment3.text=\r\n\ Este\ metodo\ cuenta\ la\ cantidad\ de\ piedras\ que\ hay\ en\ una\ matriz.\r\n\ @param\ matriz\r\n\ este\ parametro\ es\ la\ matriz\ ingresada.\r\n\ @return\ contar\r\n\ regresa\ el\ numero\ de\ piedras\ que\ posee\ la\ matriz.\r\n
+comment4.params=matrizContador\ matriz
+comment4.target=boolean\ matrizVacia(int[][],\ int[][])
+comment4.text=\r\n\ Este\ metodo\ compara\ las\ dos\ matrices\ ingresadas\ y\ genera\ una\ matriz\ con\ color\ de\ fondo.\r\n\ @param\ matrizContado\r\n\ este\ parametro\ es\ la\ matriz\ con\ el\ color\ de\ fondo,\ vac\u00EDa.\r\n\ @param\ matriz\r\n\ este\ parametro\ es\ la\ matriz\ con\ imagen.\r\n\ @return\ listo\r\n\ regresa\ booleano\ que\ determina\ si\ ya\ las\ imagenes\ son\ iguales\ o\ diferentes.\r\n
+comment5.params=
+comment5.target=int\ getCantidadDePiedras()
+comment5.text=\r\n\ Este\ metodo\ se\ utiliza\ para\ obtener\ la\ cantidad\ de\ piedras.\r\n\ @return\ cantidadDePiedras\r\n\ regresa\ el\ numero\ que\ pertenece\ a\ la\ cantidad\ de\ piedras\ en\ la\ imagen.\r\n
+numComments=6

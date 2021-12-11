@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Este\ clase\ crea\ el\ men\u00FA\ de\ la\ interfaz\ del\ programa.\r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @author\ Randy\ Sancho\r\n\ @author\ Yerlan\ Irola\r\n\ @version\ 3/12/21\r\n
+comment1.params=app
+comment1.target=Menu(App)
+comment1.text=\r\n\ Este\ es\ el\ constructor\ de\ la\ clase\ Menu,\ la\ cual\ se\ inicializa\ con\ el\ objeto\ tipo\ App.\r\n\ @param\ app\r\n\ este\ parametro\ es\ un\ objeto\ tipo\ app.\r\n
+comment2.params=
+comment2.target=void\ interfazGrafica()
+comment2.text=\r\n\ Este\ metodo\ construlle\ la\ interfaz\ grafica\ del\ men\u00FA.\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ Este\ metodo\ indica\ las\ acciones\ realizadas\ por\ los\ botones.\r\n\ @param\ e\r\n\ este\ parametro\ es\ un\ objeto\ tivo\ ActionEvent.\r\n
+comment4.params=
+comment4.target=void\ init()
+comment4.text=\r\n\ Este\ metodo\ Inicializa\ los\ parametros\ de\ la\ interfaz.\r\n
+numComments=5

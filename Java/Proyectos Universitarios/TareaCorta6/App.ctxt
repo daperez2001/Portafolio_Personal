@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ Genera\ un\ menu\ en\ el\ cual\ se\ decide\ que\ clase\ ejecutar\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @version\ 06/10/2021\r\n
+comment1.params=
+comment1.target=void\ Menu()
+comment1.text=\r\n\ Realiza\ un\ menu\ en\ el\ cual\ decidimos\ que\ clase\ usar\r\n\ \r\n
+numComments=2

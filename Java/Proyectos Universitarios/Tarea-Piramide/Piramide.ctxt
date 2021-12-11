@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Piramide
+comment0.text=\r\n\ Aplica\ metodos\ para\ generar\ una\ piramide\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\ \r\n\ @version\ 18/09/2021\r\n
+comment1.params=altura
+comment1.target=void\ toString(int)
+comment1.text=\r\n\ Recibe\ la\ altura\ de\ la\ piramide\ y\ la\ genera\r\n\ \r\n\ @param\ \ Altura\ de\ la\ piramide\ \ \r\n
+numComments=2

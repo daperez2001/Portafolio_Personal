@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Ejecuta\ todo\ el\ programa\r\n\ \r\n\ @author\ Daniel\ P\u00E9rez\r\n\ @version\ 06/10/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Ejecuta\ App\r\n\ \r\n
+numComments=2
